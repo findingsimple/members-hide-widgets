@@ -2,7 +2,7 @@
 /*
 Plugin Name: Members Hide Widgets
 Plugin URI: http://plugins.findingsimple.com
-Description: Adds ability to select what roles are allowed to view specific widgets - works with with content permission feature in Justin Tadlock's [Members plugin] (https://github.com/justintadlock/members) 
+Description: Adds ability to select what roles are allowed to view specific widgets - works with the content permission feature in Justin Tadlock's [Members plugin] (https://github.com/justintadlock/members) 
 Version: 1.0
 Author: Finding Simple
 Author URI: http://findingsimple.com
